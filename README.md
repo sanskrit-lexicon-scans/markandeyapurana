@@ -3,7 +3,8 @@
 
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/122
 
-PDF source: https://www.digitale-sammlungen.de/en/view/bsb10248680 ??
+PDF source: https://play.google.com/books/reader?id=VvYIAAAAQAAJ
+
 
 Title: Mārkāṇḍeya Purāṇa, K.M. Banerjea, 1862
 
